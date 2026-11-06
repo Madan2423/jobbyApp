@@ -1,0 +1,56 @@
+.jobSection {
+  background-color: black;
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  color: white;
+}
+
+.jobContainer1 {
+  display: flex;
+  flex-direction: column;
+  width: 21%;
+}
+
+.hr {
+  color: white;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.jobh1 {
+  font-size: 15px;
+}
+
+.label {
+  margin-left: 10px;
+}
+
+.jobContainer2 {
+  margin-left: 35px;
+  width: 100%;
+}
+
+.inputSection {
+  border: 1px solid white;
+  padding: 10px;
+  height: 50px;
+  color: white;
+  width: 500px;
+  margin-left: 46px;
+}
+
+.jobJnput {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: 400px;
+  color: white;
+}
+
+.main_div {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,30 @@
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 250px;
+  width: 300px;
+  padding: 25px;
+  border-radius: 10px;
+  background-size: cover;
+  color: black;
+}
+
+.profileImage {
+  height: 80px;
+  width: 80px;
+}
+
+.profileBtn {
+  border: none;
+  outline: none;
+  height: 50px;
+  width: 100px;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  background-color: #4f46e5;
+}
+
+.profileFailure {
+  background-color: black;
+  height: 100%;
+}

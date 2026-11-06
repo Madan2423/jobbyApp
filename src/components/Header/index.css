@@ -1,0 +1,40 @@
+.headeroutter {
+  background-color: #272727;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.himage {
+  height: 40px;
+  width: 120px;
+}
+
+.hunorder {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+}
+
+.Link {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 25px;
+}
+
+.Btn {
+  border: none;
+  padding: 10px;
+  outline: none;
+  height: 40px;
+  width: 100px;
+  color: white;
+  background-color: #6366f1;
+}

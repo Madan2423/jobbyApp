@@ -1,0 +1,62 @@
+.main_div {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.cont1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.jobItemImg {
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.text {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.Link {
+  text-decoration: none;
+}
+
+.sub111 {
+  margin-left: 13px;
+}
+
+.cont211 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cont222 {
+  display: flex;
+}
+
+.t1 {
+  margin-left: 8px;
+  font-size: 15px;
+}
+
+.hr22 {
+  height: 1px;
+  width: 101%;
+}

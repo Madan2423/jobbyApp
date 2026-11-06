@@ -1,0 +1,64 @@
+.outter {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loginFrom {
+  height: 500px;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  color: white;
+  padding: 50px;
+}
+
+.input {
+  border: 1px solid white;
+  background-color: transparent;
+  outline: none;
+  padding: 10px;
+  height: 40px;
+  width: 80%;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.image2 {
+  height: 50px;
+  width: 200px;
+  text-align: center;
+}
+
+.cont1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.Btn {
+  height: 50px;
+  width: 72%;
+  border: none;
+  outline: none;
+  background-color: #6366f1;
+  color: white;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.cont2 {
+  margin-left: 10%;
+}
+
+.p {
+  margin-left: 10%;
+  color: #ff0b37 ;
+}
